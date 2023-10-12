@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NiladriSarkar01
+- 👋 Hi, I’m Niladri Sarkar
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning Flutter
 
