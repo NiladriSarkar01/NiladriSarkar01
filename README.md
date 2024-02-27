@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Niladri Sarkar
-- 👀 I’m interested in Android App Development
+- 👋 Hi there, I’m Niladri Sarkar.
+- 👀 I’m interested in Android App Development.
 - 🕸️Fronted Developer.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React.
+- 🪸 Looking forword to create some team projects.
 
 
 <!---
