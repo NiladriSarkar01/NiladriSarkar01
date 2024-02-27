@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Niladri Sarkar
 - 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Flutter
+- 🕸️Fronted Developer.
+- 🌱 I’m currently learning React
 
 
 <!---
